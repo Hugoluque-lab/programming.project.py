@@ -72,7 +72,7 @@ class Computer:
     def update_score(self):
         self.score += 1 
 
-# 👉 Esto hace que el juego se inicie
+
 if __name__ == "__main__":
     game = Game()
     game.start_game()
